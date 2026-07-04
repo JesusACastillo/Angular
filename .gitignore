@@ -1,0 +1,21 @@
+# Angular and Node.js
+node_modules/
+dist/
+.angular/
+.cache/
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
+src/environments/*.local.ts
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
